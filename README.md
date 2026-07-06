@@ -14,6 +14,7 @@ Este *add-on* se integra directamente en el menú de engranaje de cada mazo y of
 * **🎯 Planificador de Metas / Exámenes:** Selecciona una fecha límite en el calendario interactivo. El sistema cruzará tu tiempo de respuesta histórico, tu tasa de retención y la carga de tarjetas para decirte cuántas debes estudiar al día, cuánto tiempo te tomará y cuál es tu porcentaje de probabilidad de éxito.
 <img width="571" height="650" alt="image" src="https://github.com/user-attachments/assets/9c7e2b00-df42-41f2-aa26-af8371f47a0d" />
 <img width="558" height="638" alt="image" src="https://github.com/user-attachments/assets/96b8da2e-c3bf-47e3-8766-12c94b2a8867" />
+
 * **📊 Reporte de Analítica Pro:** Un *dashboard* avanzado generado con HTML/CSS puro (compatible con el Modo Oscuro de Anki) que expone la salud del mazo:
     * Barras de progreso visuales (Dominadas vs. Jóvenes vs. Nuevas).
     * Tasa de retención real y velocidad de respuesta (en segundos).
